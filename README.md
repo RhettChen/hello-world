@@ -1,2 +1,2 @@
 # hello-world
-Just a repository
+I am a student and I hope that I will enjoy github.
